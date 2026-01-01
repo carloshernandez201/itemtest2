@@ -6,3 +6,6 @@
 #update tech blog?
 
 #note: should i post yt upload bot??
+
+
+# remove sensitive info0 and add files here
