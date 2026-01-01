@@ -4,3 +4,5 @@
 
 
 #update tech blog?
+
+#note: should i post yt upload bot??
